@@ -2,7 +2,7 @@
 
 A modern and responsive real estate website for property buying, selling and investment in Rawalpindi / Islamabad.
 
-Live Demo: https://tumhara-username.github.io/ub-marketing-real-estate/
+Live Demo: https://github.com/sonyprincess29.github.io/ub-marketing-real-estate/
 
 Features:
 - Property Listings
